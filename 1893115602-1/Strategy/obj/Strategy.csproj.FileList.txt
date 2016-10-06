@@ -1,0 +1,5 @@
+bin\Debug\Strategy.exe
+bin\Debug\Strategy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Strategy.exe
+obj\Debug\Strategy.pdb

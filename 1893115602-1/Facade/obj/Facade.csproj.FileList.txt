@@ -1,0 +1,5 @@
+bin\Debug\Facade.exe
+bin\Debug\Facade.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Facade.exe
+obj\Debug\Facade.pdb

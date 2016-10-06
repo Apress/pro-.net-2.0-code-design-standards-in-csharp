@@ -1,0 +1,7 @@
+bin\Debug\ProxyRemoteClient.exe
+bin\Debug\ProxyRemoteClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProxyRemoteClient.exe
+obj\Debug\ProxyRemoteClient.pdb
+bin\Debug\Patterns.ProxyRemoteServer.dll
+bin\Debug\Patterns.ProxyRemoteServer.pdb

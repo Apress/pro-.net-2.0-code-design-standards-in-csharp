@@ -1,0 +1,5 @@
+bin\Debug\MVC.exe
+bin\Debug\MVC.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MVC.exe
+obj\Debug\MVC.pdb

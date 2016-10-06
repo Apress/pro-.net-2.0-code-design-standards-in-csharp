@@ -1,0 +1,5 @@
+bin\Debug\TemplateMethod.exe
+bin\Debug\TemplateMethod.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TemplateMethod.exe
+obj\Debug\TemplateMethod.pdb

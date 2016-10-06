@@ -1,0 +1,5 @@
+bin\Debug\FactoryMethod.exe
+bin\Debug\FactoryMethod.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FactoryMethod.exe
+obj\Debug\FactoryMethod.pdb

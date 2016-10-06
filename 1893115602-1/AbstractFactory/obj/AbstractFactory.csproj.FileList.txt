@@ -1,0 +1,5 @@
+obj\Debug\AbstractFactory.exe
+obj\Debug\AbstractFactory.pdb
+bin\Debug\AbstractFactory.exe
+bin\Debug\AbstractFactory.pdb
+obj\Debug\ResolveAssemblyReference.cache

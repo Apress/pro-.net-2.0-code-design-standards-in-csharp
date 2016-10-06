@@ -1,0 +1,5 @@
+bin\Debug\Composite.exe
+bin\Debug\Composite.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Composite.exe
+obj\Debug\Composite.pdb

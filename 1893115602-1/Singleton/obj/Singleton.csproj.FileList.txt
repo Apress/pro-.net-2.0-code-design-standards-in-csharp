@@ -1,0 +1,5 @@
+bin\Debug\Singleton.exe
+bin\Debug\Singleton.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Singleton.exe
+obj\Debug\Singleton.pdb

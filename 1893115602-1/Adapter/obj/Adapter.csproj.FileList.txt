@@ -1,0 +1,5 @@
+bin\Debug\Adapter.exe
+bin\Debug\Adapter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Adapter.exe
+obj\Debug\Adapter.pdb

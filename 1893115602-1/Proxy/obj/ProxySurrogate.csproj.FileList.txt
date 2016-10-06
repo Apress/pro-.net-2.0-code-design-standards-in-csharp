@@ -1,0 +1,5 @@
+bin\Debug\Proxy.exe
+bin\Debug\Proxy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Proxy.exe
+obj\Debug\Proxy.pdb

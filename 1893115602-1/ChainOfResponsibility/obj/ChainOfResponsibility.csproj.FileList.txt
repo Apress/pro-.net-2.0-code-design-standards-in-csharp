@@ -1,0 +1,5 @@
+bin\Debug\ChainOfResponsibility.exe
+bin\Debug\ChainOfResponsibility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ChainOfResponsibility.exe
+obj\Debug\ChainOfResponsibility.pdb
